@@ -1,4 +1,4 @@
-Rufus: The Reliable USB Formatting Utility
+Rufus: The Reliable USB Formatting Utility（可靠的 USB 格式化工具，开源U盘引导盘制作工具 Rufus）
 ==========================================
 
 [![Build status](https://img.shields.io/github/workflow/status/pbatard/rufus/VS2019.svg?style=flat-square&label=VS2019)](https://github.com/pbatard/rufus/actions/workflows/vs2019.yml)
